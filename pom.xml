@@ -5,12 +5,12 @@
 	xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
 	<modelVersion>4.0.0</modelVersion>
 
-	<groupId>EclipseGitGithub2</groupId>
-	<artifactId>EclipseGitGithub2</artifactId>
+	<groupId>EclipseGitGithub4</groupId>
+	<artifactId>EclipseGitGithub4</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
 
 	<name>EclipseGitGithub2</name>
-	<description>A simple EclipseGitGithub2.</description>
+	<description>A simple EclipseGitGithub4.</description>
 	<!-- FIXME change it to the project's website -->
 	<url>http://www.example.com</url>
 
